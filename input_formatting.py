@@ -33,4 +33,4 @@ new_list_as_str = str(new_list)
 
 cap_str = new_list_as_str.capitalize()
 
-Print(cap_str)
+print(cap_str)
